@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "UnAssignCourse";
+    Layout = "~/Views/Shared/_UnassignCourse.cshtml";
+}
+
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            Start New Session
+            <small>Unassign Course</small>
+        </h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li class="active">Dashboard</li>
+        </ol>
+    </section>
+    <!-----------------------------------------------------------------------------------Common &  Menu Section------------------------------------------------------------------------------->
+    <!-- Main content -->
+    <section class="content">
+        <div class="row">
+            <!-- right column -->
+            <div class="col-sm-offset-3 col-md-6">
+                <!-- Horizontal Form -->
+                <div class="box box-info box-form">
+                    <div class="box-header with-border">
+                        <h3 class="box-title">Unassign All Courses</h3>
+                    </div><!-- /.box-header -->
+                    <!-- form start -->
+                    <form class="form-horizontal" method="POST" id="myForm">
+                        <div class="box-body" style="height: 200px;">
+                            <div class="col-sm-2"></div>
+                            <div class="col-sm-offset-3">
+
+                                <div class="col-sm-10">
+                                    <button type="button" id="Unassign" class="btn btn-danger btn-block btn-sm" style="width: 80%; margin:75px 0 75px 0;" onclick="unassignCourses();">Unassign All Courses!!!</button>
+                                </div>
+                            </div>
+                        </div><!-- /.box-body -->
+                        <div class="box-footer">
+                            
+                        </div><!-- /.box-footer -->
+                    </form>
+                </div><!-- /.box -->
+            </div><!--/.col (right) -->
+        </div>   <!-- /.row -->
+    </section><!-- /.content -->
+</div><!-- /.content-wrapper -->

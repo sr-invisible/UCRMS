@@ -1,0 +1,1203 @@
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV1\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV1\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV1\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV2\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV2\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV3-DeptView\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV4-Save Teacher\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV6-Course Assign Teacher\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV7-View Course Statics\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV8-Register Students\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV8-Register Students-Datepicker\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV8-Register Students-Email Validation - Clear Page\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV9\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV9\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV9\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\UMSV1.dll.config
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\UMSV1.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\UMSV1.pdb
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Antlr3.Runtime.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\EntityFramework.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\EntityFramework.SqlServer.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Newtonsoft.Json.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Owin.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Helpers.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Mvc.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Optimization.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Razor.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\WebGrease.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Helpers.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Mvc.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Optimization.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Razor.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Antlr3.Runtime.pdb
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Newtonsoft.Json.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\EntityFramework.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\EntityFramework.SqlServer.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\obj\Debug\UMSV1.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\obj\Debug\UMSV1.pdb
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\UMSV1.dll.config
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\UMSV1.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\UMSV1.pdb
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Antlr3.Runtime.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\EntityFramework.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\EntityFramework.SqlServer.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Newtonsoft.Json.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Owin.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Helpers.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Mvc.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Optimization.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Razor.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.Razor.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\WebGrease.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Helpers.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Mvc.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Optimization.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.Razor.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\System.Web.WebPages.Razor.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Antlr3.Runtime.pdb
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Newtonsoft.Json.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\EntityFramework.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\EntityFramework.SqlServer.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\obj\Debug\UMSV1.dll
+C:\Users\mtel-ceo\Downloads\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV9-RoomAssign\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV10- Student Course Enroll\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV11- View Result\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV11- View Result - PDF\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV12- Course Unassign\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV12- ClassRoomSchedule\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV13- Unallocate All Rooms\UMSV1\obj\Debug\UMSV1.pdb
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\UMSV1.dll.config
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\UMSV1.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\UMSV1.pdb
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Antlr3.Runtime.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\EntityFramework.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\EntityFramework.SqlServer.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Newtonsoft.Json.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Owin.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.Helpers.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.Mvc.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.Optimization.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.Razor.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.WebPages.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\WebGrease.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.Helpers.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.Mvc.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.Optimization.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.Razor.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.WebPages.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Antlr3.Runtime.pdb
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Newtonsoft.Json.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\EntityFramework.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\EntityFramework.SqlServer.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\obj\Debug\UMSV1.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14- All Complete\UMSV1\obj\Debug\UMSV1.pdb
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\UMSV1.dll.config
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\UMSV1.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\UMSV1.pdb
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Antlr3.Runtime.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\EntityFramework.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\EntityFramework.SqlServer.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Newtonsoft.Json.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Owin.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Helpers.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Mvc.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Optimization.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Razor.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\WebGrease.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Helpers.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Mvc.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Optimization.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Razor.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Antlr3.Runtime.pdb
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Newtonsoft.Json.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\EntityFramework.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\EntityFramework.SqlServer.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\obj\Debug\UMSV1.dll
+C:\Users\Saikat\Desktop\UCRMSwithUI\17.05\UMSV14- All Complete\UMSV14-1 All Complete\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\UMSV1.dll.config
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\UMSV1.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\UMSV1.pdb
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Antlr3.Runtime.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\EntityFramework.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\EntityFramework.SqlServer.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Newtonsoft.Json.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Owin.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Helpers.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Mvc.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Optimization.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Razor.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.Razor.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\WebGrease.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Helpers.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Mvc.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Optimization.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.Razor.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\System.Web.WebPages.Razor.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Antlr3.Runtime.pdb
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Newtonsoft.Json.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\EntityFramework.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\EntityFramework.SqlServer.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\obj\Debug\UMSV1.dll
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\obj\Debug\UMSV1.pdb
+D:\ASP.net\BITM\UMSV14-1 All Complete\UMSV14-1 All Complete\UMSV1\obj\Debug\UMSV1.csprojResolveAssemblyReference.cache

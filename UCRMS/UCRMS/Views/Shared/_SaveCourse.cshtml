@@ -1,0 +1,233 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - DASHBOARD</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+          #status
+      {
+      font-size:11px;
+      margin:10px;
+      }
+      .availablecss
+      {
+      background-color:#CEFFCE;
+      border:1px solid green;
+      }
+      .notavailablecss
+      {
+      background-color:#FFD9D9;
+      border:1px solid red;
+      }
+    </style>
+</head>
+<body class="hold-transition skin-blue sidebar-mini">
+    <div class="wrapper">
+        <header class="main-header">
+            <!-- Logo -->
+            <a href="@Url.Action("Index", "Home")" class="logo">
+                <!-- mini logo for sidebar mini 50x50 pixels -->
+                <span class="logo-mini"><b>UO</b>DA</span>
+                <!-- logo for regular state and mobile devices -->
+                <span class="logo-lg">UODA</span>
+            </a>
+            <!-- Header Navbar: style can be found in header.less -->
+            <nav class="navbar  navbar-static-top" role="navigation">
+                <!-- Sidebar toggle button-->
+                <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+                    <span class="sr-only">Toggle navigation</span>
+                </a>
+                <h4>WELCOME TO UNIVERSITY MANAGEMENT SYSTEM</h4>
+            </nav>
+        </header>
+        <!-- Left side column. contains the logo and sidebar -->
+        <aside class="main-sidebar">
+            <!-- sidebar: style can be found in sidebar.less -->
+            <section class="sidebar">
+                <!-- Sidebar user panel -->
+                <!-- search form -->
+                <form action="#" method="get" class="sidebar-form">
+                    <div class="input-group">
+                        <input type="text" name="q" class="form-control" placeholder="Search...">
+                        <span class="input-group-btn">
+                            <button type="submit" name="search" id="search-btn" class="btn btn-flat"><i class="fa fa-search"></i></button>
+                        </span>
+                    </div>
+                </form>
+                <!-- /.search form -->
+                <!-- sidebar menu: : style can be found in sidebar.less -->
+                <ul class="sidebar-menu">
+                    <li class="header">MAIN NAVIGATION</li>
+                    <li><a href="@Url.Action("Index", "Home")"><i class="fa fa-dashboard"></i> <span>Home</span></a></li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-edit"></i> <span>Department</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="@Url.Action("Save", "Department")" )'"><i class="fa fa-circle-o"></i>Save Department</a></li>
+                            <li><a href="@Url.Action("ViewDepartment", "Department")"><i class="fa fa-circle-o"></i>View Department</a></li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-edit"></i> <span>Teachers</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li class="active"><a href="@Url.Action("Save", "Teacher")"><i class="fa fa-circle-o"></i> Save Teachers</a></li>
+                            <li class="active"><a href="@Url.Action("Save", "CourseAssignTeacher")"><i class="fa fa-circle-o"></i>Course Assign To Teachers</a></li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-edit"></i> <span>Student</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="@Url.Action("Save", "Student")"><i class="fa fa-circle-o"></i>Register Student</a></li>
+                            <li><a href="@Url.Action("Enroll", "EnrollCourse")"><i class="fa fa-circle-o"></i>Enroll in a Course</a></li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-edit"></i> <span>Result</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="@Url.Action("Save", "SaveStudentResult")"><i class="fa fa-circle-o"></i>Save Student Result</a></li>
+                            <li><a href="@Url.Action("ViewResult", "ViewResult")"><i class="fa fa-circle-o"></i>View Result</a></li>
+                        </ul>
+                    </li>
+                    <li class="active treeview">
+                        <a href="#">
+                            <i class="fa fa-edit"></i> <span>Courses</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li class="active"><a href="@Url.Action("Save", "Course")"><i class="fa fa-circle-o"></i>Save Course</a></li>
+                            <li><a href="@Url.Action("Show", "ViewCourseByDepartment")"><i class="fa fa-circle-o"></i>View Course Statics</a></li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-edit"></i> <span>Start New Session</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="@Url.Action("Save", "RoomAssign")"><i class="fa fa-circle-o"></i>Allocate Class Rooms</a></li>
+                            <li><a href="@Url.Action("ViewClassScheduleRoomAllocation", "ViewClassScheduleAndRoomAllocation")"><i class="fa fa-circle-o"></i>View Class Schedule<br />& Room Allocation Information</a></li>
+                            <li><a href="@Url.Action("UnAssignCourse", "UnassignCourse")"><i class="fa fa-circle-o"></i>Unassign All Courses</a></li>
+                            <li><a href="@Url.Action("UnAllocateAllRoom", "UnAllocateAllRooms")"><i class="fa fa-circle-o"></i>Un Allocate Rooms</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+            <!-- /.sidebar -->
+        </aside>
+        @RenderBody()
+
+        <footer class="main-footer">
+            <div class="pull-right hidden-xs">
+                <b>Version</b> 2.3.0
+            </div>
+            <strong>Copyright &copy; 2017 <a href="http://uoda.edu.bd/">uoda.com</a>.</strong> All rights reserved.
+        </footer>
+        <!-- Control Sidebar -->
+        <aside class="control-sidebar control-sidebar-dark">
+            <!-- Create the tabs -->
+            <ul class="nav nav-tabs nav-justified control-sidebar-tabs">
+                <li><a href="#control-sidebar-home-tab" data-toggle="tab"><i class="fa fa-home"></i></a></li>
+                <li><a href="#control-sidebar-settings-tab" data-toggle="tab"><i class="fa fa-gears"></i></a></li>
+            </ul>
+
+            <!-- Add the sidebar's background. This div must be placed
+             immediately after the control sidebar -->
+            <div class="control-sidebar-bg"></div>
+        </aside>
+    </div><!-- ./wrapper -->
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script>
+    $(document).ready(function () {
+        jQuery.validator.addMethod("lettersonly", function (value, element) {
+            return this.optional(element) || /^[a-z," ",&,0-9,-]+$/i.test(value);
+        }, "Letters only please");
+
+        //jQuery.validator.addMethod("exactlength", function (value, element, param) {
+        //    return this.optional(element) || value.length == param;
+        //}, "Please enter exactly {0} characters.");
+
+        $("#myForm1").validate({
+            rules: {
+                Name: {
+                    required: true,
+                    lettersonly: true
+                },
+                Code: {
+                    required: true,
+                    lettersonly: true,
+                    minlength: 5
+
+                },
+                Credit: {
+                    required: true,
+                    range: [0.5, 5.0]
+                },
+                Description: {
+                    required: true
+                },
+                DepartmentId: {
+                    required: true
+                },
+                SemesterId: {
+                    required: true
+                }
+            },
+            messages: {
+                Code: {
+                    required: "Please Provide A Course Code",
+                    minlength: "Course Code Must Be 5 Characters Long"
+
+                },
+                Name: {
+                    required: "Please Provide Course Name",
+                    lettersonly: "Please Put Only Letters"
+                },
+                Credit: {
+                    required: "Please Provide Non Negetive Value",
+                    range: "Range Should be 0.5 to 5.0"
+                },
+                Description: {
+                    required: "Please Write Something about the course"
+                },
+                DepartmentId: {
+                    required: "Please Select a Department"
+                },
+                SemesterId: {
+                    required: "Please Select a Semester"
+                }
+
+            }
+        });
+    });
+    function funClear() {
+
+        //document.getElementById("#myForm").reset();
+        //Document.getElementById("#Message").reset();
+        //$("#myform .control-group").removeClass('error');
+        location.reload(true);
+
+    };
+    </script>
+
+
+
+</body>
+</html>

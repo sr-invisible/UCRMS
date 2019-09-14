@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewBag.Title = "Save";
+    Layout = "~/Views/Shared/_DepartmentSave.cshtml";
+}
+
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            Department
+            <small>Department Save</small>
+        </h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li class="active">Dashboard</li>
+        </ol>
+    </section>
+    <!-----------------------------------------------------------------------------------Common &  Menu Section------------------------------------------------------------------------------->
+    <!-- Main content -->
+    <section class="content">
+        <div class="row">
+            <!-- right column -->
+            <div class="col-sm-offset-3 col-md-6">
+                <!-- Horizontal Form -->
+                <div class="box box-info box-form">
+                    <div class="box-header with-border">
+                        <h3 class="box-title">Department Save</h3>
+                    </div><!-- /.box-header -->
+                    <!-- form start -->
+                    <form class="form-horizontal" method="POST" id="myForm">
+                        <div class="box-body">
+                            <div class="form-group">
+                                <label for="DeptCode" class="col-sm-2 control-label">Code</label>
+                                <div class="col-sm-10">
+                                    <input type="Text" class="form-control" id="Code" name="Code" placeholder="xxxxxxx" onchange="check();">
+                                    <div id="divStatus"></div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="DeptName" class="col-sm-2 control-label">Name</label>
+                                <div class="col-sm-10">
+                                    <input type="text" class="form-control" id="Name" name="Name" placeholder="Name">
+                                </div>
+                            </div>
+                            <div class="col-sm-2"></div>
+                            <div class="col-sm-offset-2">
+                               
+                                    @if (ViewBag.Message != null)
+                                    {
+                                        <div class="col-sm-offset-2 callout callout-success">
+                                            <label type="text" id="Message">@ViewBag.Message</label>
+                                        </div>
+                                    }
+                            </div>
+                        </div><!-- /.box-body -->
+                        <div class="box-footer">
+                            <button type="button" class="btn btn-default" onclick="funClear();">Cancel</button>
+                            <button type="submit" class="btn btn-info pull-right">Save</button>
+                        </div><!-- /.box-footer -->
+                    </form>
+                </div><!-- /.box -->
+            </div><!--/.col (right) -->
+        </div>   <!-- /.row -->
+    </section><!-- /.content -->
+</div><!-- /.content-wrapper -->
